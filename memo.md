@@ -35,5 +35,14 @@ int main(){
 
 と記述します。
 
+## Gitでは、system, global, localと3つの範囲（スコープ）で設定を行うことができます。
+
+![graph2](https://future-coders.net/wp-content/uploads/2024/04/git15-1024x627.png)
+
+- system = パソコン全体に適用される設定
+- global = アカウント全体に適用される設定
+- local = リポジトリ毎に設定される設定
+
+
 
 
