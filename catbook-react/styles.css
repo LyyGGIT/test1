@@ -1,0 +1,34 @@
+/* Your Code Here! */
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,600");
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.u-textCenter {
+  text-align: center;
+}
+
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+:root {
+  --primary: #396dff;
+  --grey: #f7f7f7;
+  --white: #fff;
+}
+
+.navTitle {
+  color: var(--white);
+  font-size: 20px;
+  margin: 0;
+  font-weight: normal;
+}
+
+.navContainer {
+  background-color: var(--primary);
+}
